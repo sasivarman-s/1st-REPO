@@ -3,6 +3,7 @@ To see this Repo, see in the order manner below!
        1.visit web.html
        2.checks-student.py
        3.rank.py
+thanks for visiting!...       
 
 
        
