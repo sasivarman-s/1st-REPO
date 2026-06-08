@@ -8,4 +8,6 @@ try:
 except ValueError:
     print("An error occurred.")
 finally:
-    print("Program ended.")        
+    print("Program ended.")      
+
+print("This is a simple program to count the number of vowels in a given text.")      
