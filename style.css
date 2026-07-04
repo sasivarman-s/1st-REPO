@@ -1,6 +1,8 @@
 body {
-    background-color: dimgrey;
-}
+    background-image: url(https://ik.imagekit.io/kzpbayifg/pexels-kechno-studio-2150595479-34270452.jpg);
+    /* background-repeat: no-repeat;
+    background-size:cover ; */
+} 
 
 .nav {
     position: relative;
@@ -20,6 +22,7 @@ body {
     transition: 0.5s;
     stroke: #fff;
 }
+
 
 .nav {
     position: relative;
@@ -343,7 +346,7 @@ body {
   color: white;
 }
 .info{
-    margin-left: 450px;
-    margin-right: 450px;
+    margin-left: 500px;
+    margin-right: 500px;
     margin-top: 50px;
 }
