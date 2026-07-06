@@ -55,6 +55,34 @@ body{
     margin-right: 100px;
 }
 .projectlist{
-    border: 2px solid black;
-    display: flex;y4
+    font-size: 30px;
+    position: relative;
+    left: 500px;
 }
+.socials{
+    border: 3px solid white;
+    border-radius: 20px;
+}
+.socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.social{
+    padding:10px;
+    margin: 5px;
+    border-radius: 20px;
+}
+.social:nth-child(1):hover{
+    background-color: red;
+    color: blue;
+}
+.social:nth-child(2):hover{
+    background-color: cadetblue;
+    color: white;
+}
+.social:nth-child(3):hover{
+    background-color: deeppink;
+    color: white;
+}
+
