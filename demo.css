@@ -72,3 +72,7 @@ a{
 .det:nth-child(3):hover{
     background-color:rgb(229, 108, 211);
 }
+p{
+    color: bisque;
+    text-shadow: 5px 5px 10px bisque;
+}
