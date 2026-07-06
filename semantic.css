@@ -19,7 +19,42 @@ body{
     font-size: 30px;
 }
 .navbar{
-    border: 5px solid white;
+    border: 3px solid white;
     border-radius: 20px;
     margin-top: 10px;
+    padding: 15px;
+}
+.navlist,.navitem{
+    display: inline;
+}
+.navitem{
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+.navlist{
+    margin-left: 1060px;
+}
+.navitem:hover{
+    background-color: burlywood;
+    color: black;
+    border-radius: 30px;
+}
+.para{
+    border: 3px solid white;
+    border-radius: 30px;
+    padding: 20px;
+}
+.projectheader{
+    text-decoration: underline;
+    font-size: 40px;
+    text-align: center;
+    border: 3px dotted black;
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.projectlist{
+    border: 2px solid black;
+    display: flex;y4
 }
