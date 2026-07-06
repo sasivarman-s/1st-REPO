@@ -1,0 +1,25 @@
+*{
+    cursor: pointer;
+}
+body{
+    background-color: dimgrey;
+    color: white;
+}
+.header{
+    background-color: blueviolet;
+    height: 100px;
+    width: 1500px;
+    text-align: center;
+    border-radius: 30px;
+    border: 5px solid grey;
+}
+.title{
+    position: relative;
+    top: 20px;
+    font-size: 30px;
+}
+.navbar{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 10px;
+}
